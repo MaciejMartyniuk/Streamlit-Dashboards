@@ -2,7 +2,7 @@
 
 ## Easiest way to run it (Windows)
 
-1. Double-click **`Uruchom dashboard.bat`**.
+1. Double-click **`run_dashboard.bat`**.
 2. If Windows shows a SmartScreen warning ("Windows protected your PC"),
    click **"More info"** -> **"Run anyway"**.
 3. The script will check/install Python and the required libraries
